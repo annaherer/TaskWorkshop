@@ -1,4 +1,5 @@
-# TaskWorshop
+**Tasks Application**
+
 Console app 💻 to manage tasks 🕛
 
 Features
