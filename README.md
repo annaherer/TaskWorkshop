@@ -2,10 +2,10 @@
 Console app 💻 to manage tasks 🕛
 
 Features
+✅ loading data from a file when the application starts,
 ✅ displaying all available tasks,
-✅ exiting the application,
 ✅ adding a task,
 ✅ deleting a task,
-✅ loading data from a file when the application starts,
+✅ validating numeric value when deleting,
 ✅ saving data to a file,
-✅ validating numeric value when deleting
+✅ exiting the application.
